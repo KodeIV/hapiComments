@@ -1,0 +1,27 @@
+{
+  "name": "hapiComments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KodeIV/hapiComments.git"
+  },
+  "author": "Kode IV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KodeIV/hapiComments/issues"
+  },
+  "homepage": "https://github.com/KodeIV/hapiComments",
+  "devDependencies": {
+    "bell": "^1.3.0",
+    "hapi": "^7.1.1",
+    "hapi-auth-cookie": "^1.3.2",
+    "hapi-mongodb": "^2.2.0",
+    "hoek": "^2.8.1",
+    "mongodb": "^1.4.19"
+  }
+}

@@ -7,10 +7,6 @@ module.exports = [
 		handler: 
 			handlers.insertComment
 		
-	},
-
-	{
-		
 	}
 
-]
+];
